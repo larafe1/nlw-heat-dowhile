@@ -2,8 +2,8 @@
   "name": "backend",
   "version": "0.0.0",
   "main": "app.ts",
-  "repository": "https://github.com/felpshn/dowhile-nlw-heat.git",
-  "author": "felpshn",
+  "repository": "https://github.com/larafe1/dowhile-nlw-heat.git",
+  "author": "larafe1",
   "license": "MIT",
   "scripts": {
     "dev": "tsnd --respawn --transpile-only --exit-child -r tsconfig-paths/register src/server.ts"
