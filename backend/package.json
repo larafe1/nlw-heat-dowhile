@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "0.0.0",
   "main": "app.ts",
-  "repository": "https://github.com/larafe1/dowhile-nlw-heat.git",
+  "repository": "https://github.com/larafe1/nlw-heat-dowhile.git",
   "author": "larafe1",
   "license": "MIT",
   "scripts": {
